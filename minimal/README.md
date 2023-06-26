@@ -1,4 +1,4 @@
-# SolidJS Templates
+# SolidJS Minimal Template
 
 ## Requirements
 - nodejs
@@ -8,10 +8,10 @@
 
 ```sh
 # Download the template 
-pnpx degit somerandomniko/solid-templates/TEMPLATE_NAME
+pnpx degit somerandomniko/solid-templates/minimal
 
 # Change into the created directory 
-cd TEMPLATE_NAME
+cd minimal
 
 # Install dependencies
 pnpm i
