@@ -8,10 +8,10 @@
 
 ```sh
 # Download the template 
-pnpx degit somerandomniko/solid-templates/minimal
+pnpx degit somerandomniko/solid-templates/minimal solidjs-minimal
 
 # Change into the created directory 
-cd minimal
+cd solidjs-minimal
 
 # Install dependencies
 pnpm i

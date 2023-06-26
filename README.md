@@ -8,10 +8,10 @@
 
 ```sh
 # Download the template 
-pnpx degit somerandomniko/solid-templates/TEMPLATE_NAME
+pnpx degit somerandomniko/solid-templates/TEMPLATE_NAME solidjs-template
 
 # Change into the created directory 
-cd TEMPLATE_NAME
+cd solidjs-template
 
 # Install dependencies
 pnpm i
@@ -19,3 +19,6 @@ pnpm i
 # Start the development server
 pnpm dev
 ```
+
+## Templates
+- [Minimal](minimal)
