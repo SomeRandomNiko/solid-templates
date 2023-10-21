@@ -22,3 +22,4 @@ pnpm dev
 
 ## Templates
 - [Minimal](minimal)
+- [Tailwind](tailwind)
